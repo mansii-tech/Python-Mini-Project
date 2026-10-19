@@ -1,4 +1,4 @@
-# Mahi's Cafe - Restaurant Menu Ordering System
+# Mahi's Cafe - Cafe Managnment System
 
 ## About My Project
 I created this project using Python. It is a simple restaurant ordering system for Mahi's Cafe. Customers can select items from the menu, order multiple items, and check the total amount.
